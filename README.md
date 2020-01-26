@@ -1,2 +1,2 @@
 # flutter4ever
-Framework inspired by Laravel &amp; Adonisjs
+Framework inspired by Quasar-Framework &amp; Adonisjs
